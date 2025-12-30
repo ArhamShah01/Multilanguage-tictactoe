@@ -1,2 +1,2 @@
 # tictactoe
-multiplayer CLI tictactoe game coded in c and python
+multiplayer CLI tictactoe game coded in c, cpp and python
