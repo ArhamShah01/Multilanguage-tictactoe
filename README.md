@@ -1,2 +1,2 @@
 # tictactoe
-multiplayer CLI tictactoe game coded in c, cpp, c#, js, java, ruby, rust and python
+multiplayer CLI tictactoe game coded in c, cpp, c#, js, java, ruby, rust, kotlin and python
